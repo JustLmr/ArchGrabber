@@ -1,0 +1,6 @@
+pycrypto
+Pillow
+psutil
+discord.py
+pypiwin32
+pyperclip
