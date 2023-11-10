@@ -92,8 +92,10 @@ With pyinstaller or cxfreeze you can convert your py extension file to exe
 </li>
 
 <h2>Please replace these sections</h2><br>
-<img src="/Arch/img/Id.png">
+<img src="/Arch/img/bot.png">
 <img src="/Arch/img/Ekran görüntüsü 2023-11-10 173719.png">
 
+<h2>Antivirus Data</h2>
+<img src="/Arch/img/scan1.png">
 
 <b>❗Note: For Education Only</b>
