@@ -2,6 +2,17 @@
 <h1>Why Use it</h1>
 <b>A grabber that can manage with Discord is a grabber that can do more things than other grabbers, as well as the things they can do:</b>
 
+<h2>How To Download</h2>
+<b>Open the file you uploaded 
+then open the setup.bat file and the necessary libraries will be downloaded, if python is not installed, you must install python 
+then make the necessary changes to the file 
+
+
+With pyinstaller or cxfreeze you can convert your py extension file to exe
+</b>
+
+
+
 <b>❗Note</b> <b>To use the bot you must use the - sign</b>
 
 <li>
@@ -85,4 +96,4 @@
 <img src="/Arch/img/Ekran görüntüsü 2023-11-10 173719.png">
 
 
-<b>❗Note</b> <b>For Education Only</b>
+<b>❗Note: For Education Only</b>
